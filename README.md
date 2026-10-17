@@ -1,2 +1,5 @@
-# aula-de-sabado-gabriel-rosa-9
-ensino de aula, desafio 9 aula de sabado desenvolvimento front-end 17/10
+# Projeto ConectaWeb 
+Atividade prática da disciplina Desenvolvimento Front-End para Web. 
+## Tecnologias - HTML5 - CSS3 
+## Objetivo 
+Praticar organização de projeto, versionamento e colaboração com GitHub.
